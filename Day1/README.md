@@ -11,3 +11,5 @@ Day 1 Coding Exercises
 	  print('e.g. print("Hello " + "world")')
 	print(("New lines can be created with a backslash and n.")
 
+3. Write a program that calculates and outputs the number of characters in any name. The automated tests will try out lots of different names as the input. Your code should work for any name.
+
