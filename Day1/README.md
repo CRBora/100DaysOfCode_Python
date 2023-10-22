@@ -13,3 +13,34 @@ Day 1 Coding Exercises
 
 3. Write a program that calculates and outputs the number of characters in any name. The automated tests will try out lots of different names as the input. Your code should work for any name.
 
+This program takes two inputs. The first input is stored in a variable called a. The second input is stored in a variable called b.
+
+Write a program that switches the values stored in the variables a and b.
+
+Warning . You don't need to print anything. The print statement is already in the template code. However, your program should work for different inputs. e.g. any value of a and b.
+
+Example Input 1
+29
+41
+Example Output 1
+a: 41
+b: 29
+Example Input 2
+Hello
+World
+Example Output 2
+a: World
+b: Hello
+
+Day 1 Project: Band Name Generator
+
+1. Create a greeting for your program.
+
+2. Ask the user for the city that they grew up in.
+
+3. Ask the user for the name of a pet
+
+4. Combine the name of their city and pet and show them their band name.
+
+5. Make sure the input cursor shows on a new line:
+
