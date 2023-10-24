@@ -16,3 +16,12 @@ You have x weeks left.
 Where x is replaced with the actual calculated number of weeks the input age has left until age 90.
 
 Warning your output should match the Example Output format exactly, even the positions of the commas and full stops.
+
+Day 2 Project - Tip Calculator
+
+If the bill was $150.00, split between 5 people, with 12% tip. 
+
+Each person should pay (150.00 / 5) * 1.12 = 33.6
+Format the result to 2 decimal places = 33.60
+
+Tip: There are 2 ways to round a number. You might have to do some Googling to solve this
