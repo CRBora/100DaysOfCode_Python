@@ -46,3 +46,5 @@ For Love Scores between 40 and 50, the message should be:
 
 "Your score is *y*, you are alright together."
 Otherwise, the message will just be their score.
+
+Day 3 Project: Build a Treasure Island Game that gives the user choices. Each choice will either allow the user to proceed in the game, or knock them out.

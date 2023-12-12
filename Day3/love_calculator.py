@@ -20,8 +20,7 @@ v = lower_names.count("v")
 e = lower_names.count("e")
 total_l = l + o + v + e
 
-love_score = int(total_t) * 10 + int(total_l)
-# print("Love Score = {}".format(love_score))
+love_score = int(str(total_t) + str(total_l))
 
 if love_score < 10 or love_score > 90:
   print("Your score is {}, you go together like coke and mentos.".format(love_score))
