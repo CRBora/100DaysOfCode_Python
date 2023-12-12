@@ -13,3 +13,18 @@ Equal to or over 25 but below 30 they are slightly overweight
 Equal to or over 30 but below 35 they are obese
 Equal to or over 35 they are clinically obese.
 
+3. Congratulations, you've got a job at Python Pizza! Your first job is to build an automatic pizza order program.
+
+Based on a user's order, work out their final bill.
+
+Small pizza (S): $15
+
+Medium pizza (M): $20
+
+Large pizza (L): $25
+
+Add pepperoni for small pizza (Y or N): +$2
+
+Add pepperoni for medium or large pizza (Y or N): +$3
+
+Add extra cheese for any size pizza (Y or N): +$1

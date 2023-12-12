@@ -1,10 +1,8 @@
 #!/usr/bin/python3
 
 # Which year do you want to check?
-year = int(input())
-# 🚨 Don't change the code above 👆
+year = int(input("Please choose a year: "))
 
-# Write your code below this line 👇
 if year % 4 == 0:
     if year % 100 == 0:
         if year & 400 == 0:

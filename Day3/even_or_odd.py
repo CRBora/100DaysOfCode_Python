@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 # Which number do you want to check?
-number = int(input())
+number = int(input("Please choose a number: "))
 # 🚨 Don't change the code above 👆
 
 # Write your code below this line 👇
