@@ -27,7 +27,7 @@ total height = 857
 number of students = 5
 average height = 171
 
-2. You are going to write a program that calculates the highest score from a List of scores.
+2. Highest Score -  You are going to write a program that calculates the highest score from a List of scores.
 
 e.g. student_scores = [78, 65, 89, 86, 55, 91, 64, 89]
 
@@ -41,7 +41,7 @@ In this case, student_scores would be a list that looks like: [78, 65, 89, 86, 5
 Example Output
 The highest score in the class is: 91
 
-3. You are going to write a program that calculates the sum of all the even numbers from 1 to X. If X is 100 then the first even number would be 2 and the last one is 100:
+3. Even Numbers - You are going to write a program that calculates the sum of all the even numbers from 1 to X. If X is 100 then the first even number would be 2 and the last one is 100:
 
 i.e. 2 + 4 + 6 + 8 +10 ... + 98 + 100
 
@@ -53,3 +53,37 @@ Example Input 1
 10
 Example Output 1
 30
+
+4. FizzBuzz - You are going to write a program that automatically prints the solution to the FizzBuzz game. These are the rules of the FizzBuzz game:
+
+Your program should print each number from 1 to 100 in turn and include number 100.
+
+When the number is divisible by 3 then instead of printing the number it should print "Fizz".
+
+When the number is divisible by 5, then instead of printing the number it should print "Buzz".`
+
+And if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"
+
+e.g. it might start off like this:
+
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+...etc
+
+Hint
+Remember your answer should start from 1 and go up to and including 100.
+
+Each number/text should be printed on a separate line.
